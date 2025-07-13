@@ -1,5 +1,3 @@
-// https://replit.com/join/udjobnzmwv-qureshiashir200
-
 import java.util.Random;
 
 class RandomFirstSelect implements FirstSelectStrategy {
